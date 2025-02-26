@@ -13,6 +13,8 @@
 ## Открити грешки
 | Упражнение                  | Описание на грешката |
 |-----------------------------|----------------------|
+|[`01-asymptotic-notations`](01-asymptotic-notations.pdf) | Има промяна в оценяването. Можете да видите новото оценяване [тук](https://learn.fmi.uni-sofia.bg/pluginfile.php/536346/mod_resource/content/2/rules--DAA-spring-2025.pdf) |
+
  
 <!-- Add new errors in the format below -->
 <!-- | [`exercise_name`](exercise_name.pdf) | Description of the mistake | -->
