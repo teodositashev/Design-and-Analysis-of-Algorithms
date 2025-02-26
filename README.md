@@ -14,7 +14,7 @@
 | Упражнение                  | Описание на грешката |
 |-----------------------------|----------------------|
 |[`01-asymptotic-notations`](01-asymptotic-notations.pdf) | Има промяна в оценяването. Можете да видите новото оценяване [тук](https://learn.fmi.uni-sofia.bg/pluginfile.php/536346/mod_resource/content/2/rules--DAA-spring-2025.pdf). |
+| [`02-asymptotic-notations`](02-asymptotic-notations.pdf) | В решението на задача 5 в знаменателя вместо $\sqrt{2\pi n}$ трябва да е $2\pi n$. |
 
- 
 <!-- Add new errors in the format below -->
 <!-- | [`exercise_name`](exercise_name.pdf) | Description of the mistake | -->
