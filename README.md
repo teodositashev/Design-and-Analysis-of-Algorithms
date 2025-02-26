@@ -1,6 +1,6 @@
 # Записки по Дизайн и анализ на алгоритми
 
-Това репо съдържа материали от семестриалните упражнения на специалност Компютърни Науки 8 група.
+Това репо съдържа материали от семестриалните упражнения по [ДАА](https://learn.fmi.uni-sofia.bg/course/view.php?id=11018) на специалност Компютърни Науки 8 група.
 
 ## Бъдещи планове
 Записките ще бъдат пренаписани на **LaTeX** за да се подобри съдържанието и да се премахнат допуснати грешки.
@@ -13,7 +13,7 @@
 ## Открити грешки
 | Упражнение                  | Описание на грешката |
 |-----------------------------|----------------------|
-|[`01-asymptotic-notations`](01-asymptotic-notations.pdf) | Има промяна в оценяването. Можете да видите новото оценяване [тук](https://learn.fmi.uni-sofia.bg/pluginfile.php/536346/mod_resource/content/2/rules--DAA-spring-2025.pdf) |
+|[`01-asymptotic-notations`](01-asymptotic-notations.pdf) | Има промяна в оценяването. Можете да видите новото оценяване [тук](https://learn.fmi.uni-sofia.bg/pluginfile.php/536346/mod_resource/content/2/rules--DAA-spring-2025.pdf). |
 
  
 <!-- Add new errors in the format below -->
