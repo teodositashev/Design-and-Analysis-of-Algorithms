@@ -15,6 +15,8 @@
 |-----------------------------|----------------------|
 |[`01-asymptotic-notations`](01-asymptotic-notations.pdf) | Има промяна в оценяването. Можете да видите новото оценяване [тук](https://learn.fmi.uni-sofia.bg/pluginfile.php/536346/mod_resource/content/2/rules--DAA-spring-2025.pdf). |
 | [`02-asymptotic-notations`](02-asymptotic-notations.pdf) | В решението на задача 5 в знаменателя вместо $\sqrt{2\pi n}$ трябва да е $2\pi n$. |
+| [`06-recurrence-relations`](06-recurrence-relations.pdf) | Решението на Z(n) е `Θ(2^n)`.|
+| [`07-algorithm-design-with-arrays`](07-algorithm-design-with-arrays.pdf) | В решението на задача 2 на ред 2 навсякъде трябва да е `A[\|A[i]\|]` вместо `A[A[i]]`. |
 
 <!-- Add new errors in the format below -->
 <!-- | [`exercise_name`](exercise_name.pdf) | Description of the mistake | -->
